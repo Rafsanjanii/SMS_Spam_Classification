@@ -1,5 +1,5 @@
 # SMS_Spam_Classification
-# By Muhammad Rafsanjani, [Linkedin](https://www.linkedin.com/in/muhammad-rafsanjanii/)
+By Muhammad Rafsanjani, [Linkedin](https://www.linkedin.com/in/muhammad-rafsanjanii/)
 How to create classification on SMS Spam
 1. Data collection
 2. Pre-processing
